@@ -13,9 +13,11 @@ Din utmaning? Att ta hjälp av de datalogiska delprocesserna för att lösa knep
 * Hur gör vi beställningar så enkla att även gäster utan konto kan klicka hem sin latte? (Abstraction, någon?)
 * Hur ser vi till att beställning och orderhistorik flyter smidigt? (Algorithm design är din bästa vän.)
 
-Genom att använda datalogiskt tänkande får ni inte bara en djupare förståelse för tekniska lösningar – ni bygger också en app som kan förändra kaffekulturen för alltid. Dessutom, vem vill inte vara med på resan när kaffet bokstavligen flyger in i framtiden?
+Genom att använda datalogiskt tänkande får ni inte bara en djupare förståelse för tekniska lösningar – ni bygger också en app som kan förändra kaffekulturen för alltid. 
 
-Nu kavlar vi upp ärmarna och brygger ihop något magiskt. Airbean väntar på er kreativitet!
+Dessutom, vem vill inte vara med på resan när kaffet bokstavligen flyger in i framtiden?
+
+Nu kavlar vi upp ärmarna och brygger ihop något magiskt. Airbean väntar på er kreativitet! 🚀
 
 ## Instruktioner
 
